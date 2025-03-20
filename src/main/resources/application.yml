@@ -3,9 +3,9 @@ server:
 
 spring:
   r2dbc:
-    url: r2dbc:postgresql://ep-rough-dream-a5jgv01u-pooler.us-east-2.aws.neon.tech/sql?sslMode=require
-    username: user
-    password: password
+    url: r2dbc:postgresql://ep-bold-hill-a5exndlw-pooler.us-east-2.aws.neon.tech/sql?sslmode=require
+    username: neondb_owner
+    password: npg_YzEthwd4j1KD
   sql:
     init:
       mode: always # Crea la tabla automáticamente al iniciar

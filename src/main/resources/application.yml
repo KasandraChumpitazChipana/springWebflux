@@ -7,4 +7,4 @@ spring:
   data:
     mongodb:
       database: nosql
-      uri: mongodb+srv://kasandrachumpitaz:<db_password>@cluster0.qazj0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      uri: mongodb+srv://kasandrachumpitaz:3Q3aLVYPP3T0uhia@cluster0.qazj0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
